@@ -4,25 +4,25 @@ This repository contains a collection of sql queries that I have written through
 
 ##Important:
 
-These queries are for educational purposes only and may not be production ready.
+* These queries are for educational purposes only and may not be production ready.
 
-Use caution when running these queries,specially against live databases.
+* Use caution when running these queries,specially against live databases.
 
-Feel free to explore ,modify and learn from these examples.
+* Feel free to explore ,modify and learn from these examples.
 
 ##Queries
 
-The queries are organized by topic or functionality within subfolders.
+* The queries are organized by topic or functionality within subfolders.
 
-Each file contains a single query with a descriptive file name.
+* Each file contains a single query with a descriptive file name.
 
-Some queries may include comments explaining thier purpose and logic.
+* Some queries may include comments explaining thier purpose and logic.
 
 ##Contributions
 
-Feel free to contribute your own self studied queries to this repository.
+* Feel free to contribute your own self studied queries to this repository.
 
-I hope this repository serves as useful resource for others on their self study journey.
+* I hope this repository serves as useful resource for others on their self study journey.
 
 ##Discalimer
 
