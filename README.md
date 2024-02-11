@@ -1,4 +1,4 @@
-# sql_query
+# SQL_QUERIES_FOR_BEGINNERS
 
 This repository contains a collection of sql queries that I have written through self study
 
