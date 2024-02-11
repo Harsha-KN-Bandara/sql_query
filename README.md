@@ -10,7 +10,7 @@ This repository contains a collection of sql queries that I have written through
 
 * Feel free to explore ,modify and learn from these examples.
 
-      Queries
+      Queries:
 
 * The queries are organized by topic or functionality within subfolders.
 
@@ -18,13 +18,13 @@ This repository contains a collection of sql queries that I have written through
 
 * Some queries may include comments explaining thier purpose and logic.
 
-      Contributions
+      Contributions:
 
 * Feel free to contribute your own self studied queries to this repository.
 
 * I hope this repository serves as useful resource for others on their self study journey.
 
-      Discalimer
+      Discalimer:
 
 I am not responsible for any potential damage or unintended consequences caused by using these queries. always test queries  
 in a safe environmenr before using them in production.
